@@ -7,4 +7,4 @@ Homepage: The homepage has got the details of the user as in the username,e-mail
 
 SCREENSHOTS:
 ![screenshot for Login page](image.png)
-![Homepage](image.png)
+![Homepage](image2.png)
